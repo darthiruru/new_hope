@@ -1,0 +1,4 @@
+/home/iruru/github/new_hope/First Project/bin/Debug/netcoreapp1.1/First Project.deps.json
+/home/iruru/github/new_hope/First Project/bin/Debug/netcoreapp1.1/First Project.runtimeconfig.json
+/home/iruru/github/new_hope/First Project/bin/Debug/netcoreapp1.1/First Project.runtimeconfig.dev.json
+/home/iruru/github/new_hope/First Project/obj/Debug/netcoreapp1.1/First Project.AssemblyInfo.cs
